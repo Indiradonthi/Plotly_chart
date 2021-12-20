@@ -1,0 +1,7 @@
+.jumbotron {
+  background-image: url("pic.jpg");
+  width: 100%;
+}
+body {
+  background-color: wheat;
+}
